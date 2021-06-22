@@ -10,3 +10,6 @@ Project to work with high order array methods and DOM manipulation
 - Used filter() to filter only millionaires
 - Used sort() to sort by wealth
 - Used reduce() to add all wealth
+
+
+this is part of brad traversy course projects
